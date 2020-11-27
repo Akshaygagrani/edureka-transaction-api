@@ -1,0 +1,6 @@
+git clone https://github.com/Akshaygagrani/edureka-transaction-api.git
+git branch
+git add .
+git commit -m "First Commit"
+git push origin master
+git log
